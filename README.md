@@ -25,3 +25,5 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/fc98JtQ1tm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![GitHub Logo](/images/appiconproof.png)
+Format: ![Alt Text](url)
